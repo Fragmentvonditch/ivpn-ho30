@@ -1,4 +1,4 @@
-
+Automático IVPN Aplicativo | criptografia de ponta a ponta + proteção contra vazamento de DNS é o melhor IVPN aplicativo com criptografia de ponta a ponta e proteção contra
 
 
 
