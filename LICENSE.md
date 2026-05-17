@@ -1,10 +1,10 @@
-آلي IVPN تطبيق | التشفير من طرف إلى طرف + حماية تسرب DNS هو أفضل IVPN تطبيق مع التشفير من طرف إلى طرف و حماية تسرب DNS. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/ivpn-ho30/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
