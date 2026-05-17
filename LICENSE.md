@@ -1,4 +1,4 @@
-
+Automatic IVPN App | end-to-end encryption + DNS leak protection is the best IVPN app with end-to-end encryption and DNS leak protection. Secure and optimized.
 
 
 
