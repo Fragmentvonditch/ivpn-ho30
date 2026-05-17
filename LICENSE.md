@@ -1,10 +1,10 @@
-自动IVPN应用 | 端到端加密 + DNS泄露保护 是最佳 IVPN 应用，集成 端到端加密 和 DNS泄露保护。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/ivpn-ho30/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
